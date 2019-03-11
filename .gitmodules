@@ -1,0 +1,3 @@
+[submodule "nibbler"]
+	path = nibbler
+	url = https://github.com/pudquick/nibbler
